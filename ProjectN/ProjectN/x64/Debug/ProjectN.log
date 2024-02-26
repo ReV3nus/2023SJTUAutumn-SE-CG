@@ -1,0 +1,123 @@
+﻿  main.cpp
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Mesh.h(109,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  (编译源文件“main.cpp”)
+  D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Mesh.h(109,16):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Mesh.h(110,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  (编译源文件“main.cpp”)
+  D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Mesh.h(110,16):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Mesh.h(111,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  (编译源文件“main.cpp”)
+  D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Mesh.h(111,16):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Model.h(51,16): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+  (编译源文件“main.cpp”)
+  D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Model.h(51,16):
+  请考虑在格式字符串中使用“%zd”
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\tumbler.h(24,50): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\tumbler.h(31,70): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\tumbler.h(90,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\tumbler.h(90,21): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\tumbler.h(103,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\tumbler.h(103,21): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\tumbler.h(104,55): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\tumbler.h(155,25): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\tumbler.h(155,21): warning C4244: “初始化”: 从“double”转换到“const float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Randomizer.h(15,13): warning C4244: “return”: 从“double”转换到“float”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Particle.h(170,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Particle.h(175,48): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(67,1): warning C4305: “+=”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(68,1): warning C4305: “+=”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(89,48): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(89,48): warning C4267:         with
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(89,48): warning C4267:         [
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(89,48): warning C4267:             _Ty=unsigned int
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(89,48): warning C4267:         ]
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(90,48): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(90,48): warning C4267:         with
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(90,48): warning C4267:         [
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(90,48): warning C4267:             _Ty=unsigned int
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(90,48): warning C4267:         ]
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(91,52): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(91,52): warning C4267:         with
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(91,52): warning C4267:         [
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(91,52): warning C4267:             _Ty=unsigned int
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\FireAnimation.h(91,52): warning C4267:         ]
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(13,18): warning C4305: “初始化”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(74,1): warning C4305: “+=”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(75,1): warning C4305: “+=”: 从“double”到“float”截断
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(96,48): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(96,48): warning C4267:         with
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(96,48): warning C4267:         [
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(96,48): warning C4267:             _Ty=unsigned int
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(96,48): warning C4267:         ]
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(97,48): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(97,48): warning C4267:         with
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(97,48): warning C4267:         [
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(97,48): warning C4267:             _Ty=unsigned int
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(97,48): warning C4267:         ]
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(98,52): warning C4267: “参数”: 从“size_t”转换到“_Ty”，可能丢失数据
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(98,52): warning C4267:         with
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(98,52): warning C4267:         [
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(98,52): warning C4267:             _Ty=unsigned int
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\Ball.h(98,52): warning C4267:         ]
+  (编译源文件“main.cpp”)
+  
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\main.cpp(382,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\main.cpp(383,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\main.cpp(405,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\main.cpp(406,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\main.cpp(480,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\ProjectN\main.cpp(481,20): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+  ProjectN.vcxproj -> D:\SelFiles\School\3st. Autumn\CG\hw\vs project\ProjectN\x64\Debug\ProjectN.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
